@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 margin: 0px;
 padding: 0px;
+font-family: "Work Sans", sans-serif;;
 
 }
 .hero{
@@ -20,4 +21,42 @@ padding: 0px;
 .hero_content{
     width: 700px;
     margin: 0px auto;
+}
+
+h4.sub_title {
+    font-size: 25px;
+    color: #ffffff;
+    text-align: center;
+    height: 35px;
+    opacity: 0.8;
+}
+
+h2.title {
+    text-align: center;
+    color: #ffff;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+p.des {
+    font-size: 14px;
+    color: #ffff;
+    text-align: center;
+    line-height: 20px;
+    font-weight: 500;
+    margin: 15px 0px;
+}
+
+button.btn {background: #52C303;
+    padding: 15px 30px;
+    text-align: center;
+    margin: 0px auto;
+    border: navajowhite;
+    color: #ffff;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.btn_box{
+    text-align: center;
 }
