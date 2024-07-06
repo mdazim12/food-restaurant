@@ -1,0 +1,23 @@
+*{
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+margin: 0px;
+padding: 0px;
+
+}
+.hero{
+    width: 1344px;
+    height: 641px;
+    background-image:linear-gradient(180.00deg, rgb(16, 16, 16) -19.5%,rgba(16, 16, 16, 0) 100%)
+    ,url(assets/hero-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero_content{
+    width: 700px;
+    margin: 0px auto;
+}
